@@ -1,0 +1,22 @@
+// app global css in SCSS form
+
+.flex-container {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+.flex-container-wrap {
+  display: flex;
+  flex-flow: column;
+}
+
+.flex-full-height-2 {
+  flex: 2;
+  overflow: auto;
+}
+
+.flex-full-height-3 {
+  flex: 3;
+  overflow: auto;
+}

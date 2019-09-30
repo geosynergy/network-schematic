@@ -1,0 +1,32 @@
+{
+  "name": "network-schematic",
+  "version": "0.0.1",
+  "description": "Schematic representation of gas and water networks",
+  "productName": "Schematic representation of gas and water networks",
+  "cordovaId": "org.cordova.quasar.app",
+  "author": "Аleksandr Melnyk <melnykog@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.18.1",
+    "d3-format": "^1.4.1",
+    "d3-hierarchy": "^1.1.8",
+    "d3-selection": "^1.4.0",
+    "line-intersect": "^2.2.1",
+    "quasar": "^1.0.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
