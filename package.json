@@ -16,6 +16,7 @@
     "d3-hierarchy": "^1.1.8",
     "d3-scale": "^3.1.0",
     "d3-selection": "^1.4.0",
+    "d3-zoom": "^1.8.3",
     "line-intersect": "^2.2.1",
     "quasar": "^1.0.0"
   },
